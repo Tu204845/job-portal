@@ -8,7 +8,7 @@ import { Toaster } from "react-hot-toast";
 
 import LandingPage from "./pages/LandingPage/LandingPage";
 import SignUp from "./pages/Auth/SignUp";
-import Login from "./pages/Auth/login";
+import Login from "./pages/Auth/Login";
 
 import JobSeekerDashboard from "./pages/JobSeeker/JobSeekerDashboard";
 import JobDetails from "./pages/JobSeeker/JobDetails";
