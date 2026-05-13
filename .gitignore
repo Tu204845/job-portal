@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Environment variables (QUAN TRỌNG - chứa mật khẩu DB & JWT secret)
+.env
+.env.local
+.env.production
+
+# Uploaded files (chứa dữ liệu người dùng)
+backend/uploads/
+
+# Build output
+frontend/job-portal/dist/
+frontend/job-portal/dist-ssr/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
